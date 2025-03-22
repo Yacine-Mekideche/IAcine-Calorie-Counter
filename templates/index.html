@@ -3,14 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Calorie Counter</title>
+    <title>🍎 IAcine - Calorie Counter</title>
     <link rel="stylesheet" href="/static/css/style.css" />
 </head>
 <body>
     <div class="container">
-        <h2>Calorie Counter</h2>
-        <p>Upload a meal image to calculate its calories</p>
+        <h2>🥗 Calorie Counter 🍔</h2>
+        <p>Snap your meal and let IAcine calculate the calories !</p>
+        
+        <div id="image-preview" style="margin-bottom: 10px;">
+            <img id="display-image" src="/static/images/food.avif" alt="Uploaded Image" style="max-width: 100%; border-radius: 10px;" />
+        </div>
+
         <button id="upload"><img src="/static/images/camera.png" /></button>
+
         <div id="calorie-count"></div>
         <div id="spinner"></div>
     </div>
