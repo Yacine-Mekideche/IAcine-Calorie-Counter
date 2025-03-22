@@ -87,9 +87,10 @@ You’ll be able to upload a meal photo and get calorie estimations directly in 
 
 ## 🎯 Demo  
 
-<a href="https://www.youtube.com/watch?v=Gfnmd4JJJ5o" target="_blank">
-  <img src="https://img.youtube.com/vi/Gfnmd4JJJ5o/maxresdefault.jpg" alt="Breast Cancer Predictor - Demo Video" style="max-width:100%; height:auto;">
+<a href="https://www.youtube.com/watch?v=XJX0ZiRzRes" target="_blank">
+  <img src="https://img.youtube.com/vi/XJX0ZiRzRes/maxresdefault.jpg" alt="AI Calorie Counter - Demo Video" style="max-width:100%; height:auto;">
 </a>
+
 
 
 ## 📬 Contact Me  
